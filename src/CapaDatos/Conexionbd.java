@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Raul
+ * @author Gabriel Arias
  */
 public class Conexionbd  {
     

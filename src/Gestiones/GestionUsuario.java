@@ -15,7 +15,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author Raul
+ * @author Gabriel Arias
  */
 public class GestionUsuario   implements IGestion  {
 

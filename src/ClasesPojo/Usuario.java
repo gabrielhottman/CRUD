@@ -8,7 +8,7 @@ package ClasesPojo;
 
 /**
  *
- * @author Raul
+ * @author Gabriel Arias
  */
 public class Usuario {
 

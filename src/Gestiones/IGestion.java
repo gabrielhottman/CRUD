@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Raul
+ * @author Gabriel Arias
  */
 public interface IGestion {
     

@@ -8,7 +8,7 @@ package usuarioconexion;
 
 /**
  *
- * @author Raul
+ * @author Gabriel Arias
  */
 public class UsuarioConexion {
 
